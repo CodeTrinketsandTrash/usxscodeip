@@ -86,3 +86,24 @@ If IPNET is useful to you, please **star the repo** — it takes 5 seconds and h
 <a href="https://github.com/X5Coder/IPNET"><img src="https://img.shields.io/badge/Repo-IPNET_Original-111111?style=for-the-badge&logo=github&logoColor=white" alt="Original repo"></a>
 
 </div>
+
+<!--IPNET-LIVE-START-->
+## Live connection (auto-updated, copy from here)
+
+- Repo: https://github.com/CodeTrinketsandTrash/usxscodeip
+
+- Direct link (copy/QR):
+```
+ss://YWVzLTI1Ni1nY206WDVfU2VjdXJlXzIwMjYhU3Ryb25n@bore.pub:59515#IPNET-USA
+```
+
+- Mesh link (stable, Yggdrasil app + v2rayNG):
+```
+ss://YWVzLTI1Ni1nY206WDVfU2VjdXJlXzIwMjYhU3Ryb25n@[203:347e:118f:fe81:f999:c5c1:aada:c128]:8388#IPNET-USA-YGG
+```
+
+- Subscription (fixed forever, auto-updates):
+```
+https://raw.githubusercontent.com/CodeTrinketsandTrash/usxscodeip/main/sub.txt
+```
+<!--IPNET-LIVE-END-->
