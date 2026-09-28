@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-ss://YWVzLTI1Ni1nY206WDVfU2VjdXJlXzIwMjYhU3Ryb25n@bore.pub:10326#IPNET-USA
-=======
 ss://YWVzLTI1Ni1nY206WDVfU2VjdXJlXzIwMjYhU3Ryb25n@bore.pub:59117#IPNET-USA
->>>>>>> Stashed changes
