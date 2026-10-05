@@ -1,2 +1,2 @@
-HTTP_PROXY=bore.pub:3638 (user x5coder, http only - CONNECT blocked by EG ISP)
-SHADOWSOCKS=bore.pub:29365 (aes-256-gcm, pass X5_Secure_2026!Strong - full https)
+HTTP_PROXY=bore.pub:54355 (user x5coder, http only - CONNECT blocked by EG ISP)
+SHADOWSOCKS=bore.pub:22722 (aes-256-gcm, pass X5_Secure_2026!Strong - full https)
