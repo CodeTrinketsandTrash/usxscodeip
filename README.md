@@ -94,7 +94,7 @@ If IPNET is useful to you, please **star the repo** — it takes 5 seconds and h
 
 - Direct link (copy/QR):
 ```
-ss://YWVzLTI1Ni1nY206WDVfU2VjdXJlXzIwMjYhU3Ryb25n@bore.pub:10530#IPNET-USA
+ss://YWVzLTI1Ni1nY206WDVfU2VjdXJlXzIwMjYhU3Ryb25n@bore.pub:40146#IPNET-USA
 ```
 
 - Mesh link (stable, Yggdrasil app + v2rayNG):
