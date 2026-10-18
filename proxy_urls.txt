@@ -1,7 +1,2 @@
-<<<<<<< Updated upstream
-HTTP_PROXY=bore.pub:47730 (user x5coder, http only - CONNECT blocked by EG ISP)
-SHADOWSOCKS=bore.pub:60986 (aes-256-gcm, pass X5_Secure_2026!Strong - full https)
-=======
 HTTP_PROXY=bore.pub:44830 (user x5coder, http only - CONNECT blocked by EG ISP)
 SHADOWSOCKS=bore.pub:2091 (aes-256-gcm, pass X5_Secure_2026!Strong - full https)
->>>>>>> Stashed changes
