@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-bore.pub:8381
-=======
 bore.pub:62238
->>>>>>> Stashed changes
