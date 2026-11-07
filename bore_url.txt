@@ -1,1 +1,1 @@
-bore.pub:24800
+bore.pub:8200
